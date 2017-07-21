@@ -1,0 +1,12 @@
+adult,/home/cosc460/Desktop/VM/Datasets/Adult/
+bank,/home/cosc460/Desktop/VM/Datasets/Bank/
+ds1.10,/home/cosc460/Desktop/VM/Datasets/Life Sciences/
+kddcup,/home/cosc460/Desktop/VM/Datasets/KDD Cup 1999/
+US,/home/cosc460/Desktop/VM/Datasets/IPUMS US/
+BR,/home/cosc460/Desktop/VM/Datasets/IPUMS Brazil/
+mushroom,/home/cosc460/Desktop/VM/Datasets/Mushroom/
+NLTCS,/home/cosc460/Desktop/VM/Datasets/NLTCS/
+census-income,/home/cosc460/Desktop/VM/Datasets/Census Income/
+crx,/home/cosc460/Desktop/VM/Datasets/Credit Approval/
+optdigits,/home/cosc460/Desktop/VM/Datasets/Optical Digit Recognition/
+skin,/home/cosc460/Desktop/VM/Datasets/Skin/
